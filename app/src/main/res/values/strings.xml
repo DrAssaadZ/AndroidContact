@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ContactApp</string>
+    <string name="addBtnText">Add</string>
+    <string name="searchBtnText">Search</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="add">Add</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="add_a_contact">Add a Contact</string>
+</resources>
